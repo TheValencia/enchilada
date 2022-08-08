@@ -1,0 +1,1647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="font-size: 16px;"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- [if !mso] <!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- <![endif]--><meta name="viewport" content="width=device-width, initial-scale=1.0"><title></title><style>body * {
+  box-sizing: border-box;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  line-height: 1.4;
+  color: #413D3D; }
+
+a,
+a:visited,
+a:active,
+a:hover {
+  text-decoration: none;
+  color: #0890C9; }
+
+.linkHighlight a,
+a.linkHighlight {
+  border-bottom: 2px solid #F05E22;
+  color: inherit;
+  font-weight: bold; }
+
+img {
+  max-width: 100% !important;
+  height: auto  !important;
+  width: 100%  !important;
+  display: inline-block; }
+
+img.logo,
+img.fixed {
+  width: auto !important; }
+
+#emailContents .preheader,
+#emailContents .admin {
+  color: inherit !important;
+  display: block !important;
+  height: auto !important;
+  max-height: 100% !important;
+  max-width: 100% !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  width: 100% !important; }
+
+#emailContents .preheader {
+  padding: 10px 0; }
+
+#admin-toggle {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 2px 7px;
+  cursor: pointer; }
+
+@media (max-width: 500px) {
+  .wrapper {
+    width: 100% !important; }
+  .rs--hide {
+    color: transparent;
+    display: none;
+    height: 0;
+    max-height: 0;
+    max-width: 0;
+    opacity: 0;
+    overflow: hidden;
+    mso-hide: all;
+    visibility: hidden;
+    width: 0;
+    Margin: 0 auto; }
+  .rs--text-align--center {
+    text-align: center !important; }
+  .rs--display--block {
+    display: block !important; }
+  .rs--padding--none {
+    padding: 0 !important; }
+  .rs--max {
+    width: 100% !important;
+    display: block !important; }
+  .rs--width--0 {
+    width: 0 !important; }
+  .rs--width--5 {
+    width: 5% !important; }
+  .rs--width--10 {
+    width: 10% !important; }
+  .rs--width--15 {
+    width: 15% !important; }
+  .rs--width--20 {
+    width: 20% !important; }
+  .rs--width--25 {
+    width: 25%; }
+  .rs--width--30 {
+    width: 30% !important; }
+  .rs--width--33 {
+    width: 33.33333% !important; }
+  .rs--width--35 {
+    width: 35% !important; }
+  .rs--width--40 {
+    width: 40% !important; }
+  .rs--width--45 {
+    width: 45% !important; }
+  .rs--width--50 {
+    width: 50% !important; }
+  .rs--width--55 {
+    width: 55% !important; }
+  .rs--width--60 {
+    width: 60% !important; }
+  .rs--width--65 {
+    width: 65% !important; }
+  .rs--width--66 {
+    width: 66.66667% !important; }
+  .rs--width--70 {
+    width: 70% !important; }
+  .rs--width--75 {
+    width: 75% !important; }
+  .rs--width--80 {
+    width: 80% !important; }
+  .rs--width--85 {
+    width: 85% !important; }
+  .rs--width--90 {
+    width: 90% !important; }
+  .rs--width--95 {
+    width: 95% !important; }
+  .rs--width--100 {
+    width: 100% !important; }
+  .rs--width--auto {
+    width: auto !important; } }
+    
+.video-wrapper {display:none;}
+ @media (-webkit-min-device-pixel-ratio: 0) and (min-device-width:1024px) 
+ {
+  .video-wrapper { display:block!important; }
+  .video-fallback { display:none!important; }
+ }
+  @supports (-webkit-overflow-scrolling:touch) and (color:#ffffffff) {
+    div[class^=video-wrapper] { display:block!important; }
+    div[class^=video-fallback] { display:none!important; }
+  }
+  #MessageViewBody .video-wrapper { display:block!important; }
+  #MessageViewBody .video-fallback { display:none!important; }
+
+</style>
+    
+</head><body style="background-color: #fff; box-sizing: border-box; color: #4d4d4f; font-family: 'Helvetica Neue',Helvetica,sans-serif; font-size: 100%; line-height: 1.4; margin: 0 !important; padding: 0;">
+<div class="admin" style="Margin: 0 auto; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">
+<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+	<tbody>
+		<tr style="line-height: 0">
+			<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" class="width-100" role="presentation" style="background-color: #F8F8F8; border-collapse: collapse; border-spacing: 0; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">&nbsp;&nbsp;</td>
+			<td class="wrapper padding-y--md" style="Margin: 0 auto !important; font-weight: 400; margin: 0 auto !important; max-width: 600px; padding: 0; padding-bottom: 16px; padding-top: 16px; text-align: left; vertical-align: top; width: 600px;" width="600">
+			<div class="preheader" pardot-region="pardot_preheader" pardot-removable="1" style="Margin: 0 auto; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">
+			<div pardot-region="pardot_simple" pardot-region-type="simple"><span style="font-family:Arial,Helvetica,sans-serif;">{{Recipient.FirstName}}<span style="font-size:12.0pt"><span style="line-height:107%">&nbsp;are you with us?</span></span></span></div>
+
+			<div class="preheader-fill" style="Margin: 0 auto; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+			</div>
+
+			<div class="linkHighlight" pardot-removable="1">
+			<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+				<tbody>
+					<tr style="line-height: 0">
+						<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<div pardot-region="pardot_basic" pardot-region-type="basic"><a href="https://www3.kidney.org/l/219342/2018-03-28/35knp">Update my email preferences</a></div>
+
+			<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+				<tbody>
+					<tr style="line-height: 0">
+						<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+
+			<div bgcolor="#ffffff" class="content bg--white rounded overflow--hidden" style="Margin: 0 auto; background-color: #fff; border-radius: 5px; box-sizing: border-box; display: block; max-width: 600px; overflow: hidden;">
+			<table bgcolor="#ffffff" class="main width--100 bg--white" role="presentation" style="background-color: #fff; border-collapse: collapse; border-spacing: 0; width: 100%;">
+				<tbody>
+					<tr class="bg--white" style="background-color: #fff;">
+						<td class="bg--white" style="background-color: #fff; font-weight: 400; padding: 0; text-align: left; vertical-align: top;"><!-- Header start-->
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-removable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="13px" style="-webkit-text-size-adjust: none; font-size: 13px; font-weight: 400; line-height: 13px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+													<tbody>
+														<tr>
+															<td class="vertical-align--middle" style="font-weight: 400; padding: 0; text-align: left; vertical-align: middle;"><a href="https://www.kidney.org" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="kidney logo" class="logo" height="38" src="https://kidneyfoundation.cachefly.net/email//images/logo_new.png" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: 38px; max-height: 100%; max-width: 100%; width: auto !important;" title="National Kidney Foundation" width="167"></a></td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="13px" style="-webkit-text-size-adjust: none; font-size: 13px; font-weight: 400; line-height: 13px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+							<tbody>
+								<tr style="line-height: 0">
+									<td class="bg--gray-1" height="1px" style="-webkit-text-size-adjust: none; background-color: #efeff0; font-size: 1px; font-weight: 400; line-height: 1px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Header end--><!-- Top text start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+									<div pardot-region="pardot_basic" pardot-region-type="basic"><img src="https://via.placeholder.com/600x320" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="600"></div>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Top text end--><!-- Banner start--><!-- Banner end--><!-- Intro text start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<div pardot-region="pardot_basic" pardot-region-type="basic">
+									<p style="margin: 0; margin-bottom: 16px; padding: 0;">{{Recipient.FirstName}}, Text Sample</p>
+									</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Intro text end--><!-- Buttons start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+													<tbody>
+														<tr>
+															<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">I'm a big button</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="32px" style="-webkit-text-size-adjust: none; font-size: 32px; font-weight: 400; line-height: 32px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+													<tbody>
+														<tr>
+															<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">I'm a button</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="32px" style="-webkit-text-size-adjust: none; font-size: 32px; font-weight: 400; line-height: 32px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+													<tbody>
+														<tr>
+															<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">I'm a button</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="32px" style="-webkit-text-size-adjust: none; font-size: 32px; font-weight: 400; line-height: 32px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+													<tbody>
+														<tr>
+															<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">I'm a big button</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="32px" style="-webkit-text-size-adjust: none; font-size: 32px; font-weight: 400; line-height: 32px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Buttons end--><!-- Three orange buttons start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<center>
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Three</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Buttons</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">In a row</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="21px" style="-webkit-text-size-adjust: none; font-size: 21px; font-weight: 400; line-height: 21px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</center>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Three orange buttons end--><!-- Three light orange buttons start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<center>
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Three</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Buttons</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+												<td class="width--33 rs--max padding--xs" style="font-weight: 400; padding: 9px; text-align: left; vertical-align: top; width: 33.33333%;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 12px 28px; text-align: center; vertical-align: top;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">In a row</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="21px" style="-webkit-text-size-adjust: none; font-size: 21px; font-weight: 400; line-height: 21px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</center>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Three light orange buttons end--><!-- Promo article start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="width--100" src="https://via.placeholder.com/560x300" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: 100%;" width="540">
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="15px" style="-webkit-text-size-adjust: none; font-size: 15px; font-weight: 400; line-height: 15px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+
+									<div>
+									<div pardot-region="pardot_basic" pardot-region-type="basic"><a class="bold font-size--lg color--gray-4" href="https://kidney.org" style="background-color: transparent; color: #4d4d4f; font-size: 21px; font-weight: 800; line-height: 1.35; text-decoration: none;">This is an article title.</a>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<p style="margin: 0; margin-bottom: 7px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam, elit ham hock id culpa aliquip.</p>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+
+									<div pardot-removable="removable">
+									<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;" width="auto">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<center>
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+													<tbody>
+														<tr>
+															<td align="center" class="text-align--center" style="background-color: #ffffff; border-radius: 1000px; font-weight: 400; padding: 0; text-align: center; vertical-align: top;">
+															<div style="border: 2px solid #F05E22; border-radius: 1000px;background-color:#ffffff;padding: 8px 16px;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #ffffff; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">learn more</a></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+									</div>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Promo article end--><!-- Portrait articles start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--50 rs--max padding-right--xs rs--padding--none" style="font-weight: 400; padding: 0; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;">
+												<div>
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="width--100" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: 100%;" width="260"></div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+
+												<div>
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<div class="bold" style="font-weight: 800;">This is an article title.</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam, elit ham hock id culpa aliquip.<br>
+												<br>
+												Character limit: 366 w/spaces</p>
+
+												<p class="linkHighlight" pardot-removable="removable" style="margin: 0; margin-bottom: 7px; padding: 0;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">learn more</a></p>
+												</div>
+												</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td class="width--50 rs--max padding-left--xs rs--padding--none" style="font-weight: 400; padding: 0; padding-left: 9px; text-align: left; vertical-align: top; width: 50%;">
+												<div>
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="width--100" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: 100%;" width="260"></div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+
+												<div>
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<div class="bold" style="font-weight: 800;">This is an article title.</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam, elit ham hock id culpa aliquip.<br>
+												<br>
+												Character limit: 366 w/spaces</p>
+
+												<p class="linkHighlight" pardot-removable="removable" style="margin: 0; margin-bottom: 7px; padding: 0;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">learn more</a></p>
+												</div>
+												</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Portrait articles end--><!-- Landscape article start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--50 padding-right--xs rs--max rs--padding--none" style="font-weight: 400; padding: 0; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="fixed" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: auto !important;" width="270"></div>
+												</td>
+												<td class="width--50 padding-left--xs rs--max rs--padding--none" style="font-weight: 400; padding: 0; padding-left: 9px; text-align: left; vertical-align: top; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">MEMBERThis is an article title.</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam, elit ham hock id culpa aliquip.</p>
+
+												<p class="linkHighlight" pardot-removable="removable" style="margin: 0; margin-bottom: 7px; padding: 0;"><a href="https://kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">learn more</a></p>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Landscape article end--><!-- Small gallery start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<div class="font-size--lg bold" style="font-size: 21px; font-weight: 800; line-height: 1.35;">This is the section header for a gallery</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="4px" style="-webkit-text-size-adjust: none; font-size: 4px; font-weight: 400; line-height: 4px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="7px" style="-webkit-text-size-adjust: none; font-size: 7px; font-weight: 400; line-height: 7px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+
+												<div pardot-removable="row-remove" pardot-repeatable="row-repeat">
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+													<tbody>
+														<tr class="admin width--100" style="Margin: 0 auto; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">
+															<td class="admin width--100 text-align--center" colspan="2" style="Margin: 0 auto; color: transparent; display: none; font-weight: 400; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; padding: 0; text-align: center; vertical-align: top; visibility: hidden; width: 0;">&nbsp; &nbsp;</td>
+														</tr>
+														<tr>
+															<td class="width--50 rs--max" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+															<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td class="width--50 rs--max" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+															<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																		<td class="width--33 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 33.33333%;"><img src="https://via.placeholder.com/85x85" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="85"></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Small gallery end--><!-- Big gallery start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<div class="font-size--lg bold" style="font-size: 21px; font-weight: 800; line-height: 1.35;">This is the section header for a gallery</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="7px" style="-webkit-text-size-adjust: none; font-size: 7px; font-weight: 400; line-height: 7px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<table pardot-removable="row-remove" pardot-repeatable="row-repeat" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+													<tbody>
+														<tr class="admin width--100" style="Margin: 0 auto; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">
+															<td class="admin width--100 text-align--center" colspan="2" style="Margin: 0 auto; color: transparent; display: none; font-weight: 400; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; padding: 0; text-align: center; vertical-align: top; visibility: hidden; width: 0;">&nbsp; &nbsp;</td>
+														</tr>
+														<tr>
+															<td class="width--50 rs--max" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+															<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td class="width--50 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;"><img pardot-removable="image-remove" src="https://via.placeholder.com/130x130" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="130"></td>
+																		<td class="width--50 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;"><img pardot-removable="image-remove" src="https://via.placeholder.com/130x130" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="130"></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td class="width--50 rs--max" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+															<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																<tbody>
+																	<tr>
+																		<td class="width--50 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;"><img pardot-removable="image-remove" src="https://via.placeholder.com/130x130" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="130"></td>
+																		<td class="width--50 padding-bottom--xs padding-right--xs" style="font-weight: 400; padding: 0; padding-bottom: 9px; padding-right: 9px; text-align: left; vertical-align: top; width: 50%;"><img pardot-removable="image-remove" src="https://via.placeholder.com/130x130" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%;" width="130"></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Big gallery end--><!-- Quote start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<div pardot-region="pardot_basic" pardot-region-type="basic">
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--25 padding-right--xxs rs--max rs--padding--none text-align--center" pardot-removable="1" style="font-weight: 400; padding: 0; padding-right: 6px; text-align: center; vertical-align: top; width: 25%;"><img class="fixed" src="https://via.placeholder.com/130x130" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: auto !important;" width="130">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td class="width--75 padding-left--xxs rs--max rs--padding--none" style="font-weight: 400; padding: 0; padding-left: 6px; text-align: left; vertical-align: top; width: 75%;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">Kevin Longino</div>
+
+												<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<p style="margin: 0; margin-bottom: 16px; padding: 0;">"This is a quote that says something great about something so people will be like, wow that's great"</p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Quote end--><!-- Donation options start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+									<table bgcolor="#EBFAF8" style="background-color: #EBFAF8; border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td bgcolor="#EBFAF8" class="padding-x--lg" style="background-color: #EBFAF8; font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div>
+												<div pardot-data="" pardot-region="pardot_basic" pardot-region-type="basic" style="background: rgb(235, 250, 248);">
+												<p class="text-align--center" style="margin: 0; margin-bottom: 16px; padding: 0; text-align: center;"><strong style="font-weight: 700;">You should give some money,<br>
+												how about one of these options.</strong></p>
+												</div>
+												</div>
+
+												<center>
+												<table class="text-align--center" style="border-collapse: collapse; border-spacing: 0; table-layout: fixed; text-align: center; width: 100%;">
+													<tbody>
+														<tr>
+															<td class="padding--xxxs width--25 rs--max text-align--center" pardot-removable="1" pardot-repeatable="1" style="font-weight: 400; padding: 4px; text-align: center; vertical-align: top; width: 25%;">
+															<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+																		<center>
+																		<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																			<tbody>
+																				<tr>
+																					<td align="center" bgcolor="#86D6C8" class="text-align--center" style="background-color: #86D6C8; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://www.kidney.org/donation?amount=100" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #86D6C8; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">$100</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</center>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td class="padding--xxxs width--25 rs--max text-align--center" pardot-removable="1" pardot-repeatable="1" style="font-weight: 400; padding: 4px; text-align: center; vertical-align: top; width: 25%;">
+															<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+																		<center>
+																		<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																			<tbody>
+																				<tr>
+																					<td align="center" bgcolor="#FEA636" class="text-align--center" style="background-color: #FEA636; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://www.kidney.org/donation?amount=200" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #FEA636; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">$200</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</center>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td class="padding--xxxs width--25 rs--max text-align--center" pardot-removable="1" pardot-repeatable="1" style="font-weight: 400; padding: 4px; text-align: center; vertical-align: top; width: 25%;">
+															<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+																		<center>
+																		<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																			<tbody>
+																				<tr>
+																					<td align="center" bgcolor="#DFA3EB" class="text-align--center" style="background-color: #DFA3EB; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://www.kidney.org/donation?amount=200" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #DFA3EB; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">$200</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</center>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td class="padding--xxxs width--25 rs--max text-align--center" pardot-removable="1" pardot-repeatable="1" style="font-weight: 400; padding: 4px; text-align: center; vertical-align: top; width: 25%;">
+															<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+																		<center>
+																		<table border="0" cellpadding="0" cellspacing="0" class="width--100" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+																			<tbody>
+																				<tr>
+																					<td align="center" bgcolor="#F05E22" class="text-align--center" style="background-color: #F05E22; border-radius: 1000px; font-weight: 400; padding: 8px 16px; text-align: center; vertical-align: top;"><a href="https://www.kidney.org/donation?amount=200" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #F05E22; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: normal; text-align: center; text-decoration: none; width: 100%;">$200</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</center>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Donation options end--><!-- White promo start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--50 padding--md rs--max rs--padding--none vertical-align--middle" style="font-weight: 400; padding: 16px; text-align: left; vertical-align: middle; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="display--block vertical-align--top" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: block; height: auto; max-height: 100%; max-width: 100%; vertical-align: top;" width="270"></div>
+												</td>
+												<td class="width--50 rs--max rs--padding--none" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+												<div class="padding-x--xs" pardot-region="pardot_basic" pardot-region-type="basic" style="padding-left: 9px; padding-right: 9px;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="15px" style="-webkit-text-size-adjust: none; font-size: 15px; font-weight: 400; line-height: 15px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">Promo title</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam</p>
+
+												<div pardot-removable="removable">
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;" width="auto">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="text-align--center" style="background-color: #ffffff; border-radius: 1000px; font-weight: 400; padding: 0; text-align: center; vertical-align: top;">
+																		<div style="border: 2px solid #F05E22; border-radius: 1000px;background-color:#ffffff;padding: 8px 16px;"><a href="https://www.kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #ffffff; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Donate Now</a></div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="6px" style="-webkit-text-size-adjust: none; font-size: 6px; font-weight: 400; line-height: 6px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- White promo end--><!-- Aqua promo start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#EBFAF8" style="background-color: #EBFAF8; border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td bgcolor="#EBFAF8" class="width--50 padding--md rs--max rs--padding--none vertical-align--middle" style="background-color: #EBFAF8; font-weight: 400; padding: 16px; text-align: left; vertical-align: middle; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="display--block vertical-align--top" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: block; height: auto; max-height: 100%; max-width: 100%; vertical-align: top;" width="270"></div>
+												</td>
+												<td bgcolor="#EBFAF8" class="width--50 rs--max rs--padding--none" style="background-color: #EBFAF8; font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+												<div class="padding-x--xs" pardot-region="pardot_basic" pardot-region-type="basic" style="background-color: #EBFAF8; padding-left: 9px; padding-right: 9px;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="15px" style="-webkit-text-size-adjust: none; font-size: 15px; font-weight: 400; line-height: 15px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">Promo title</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam</p>
+
+												<div pardot-removable="removable">
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;" width="auto">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="text-align--center" style="background-color: #ffffff; border-radius: 1000px; font-weight: 400; padding: 0; text-align: center; vertical-align: top;">
+																		<div style="border: 2px solid #86D6C8; border-radius: 1000px;background-color:#ffffff;padding: 8px 16px;"><a href="https://www.kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #ffffff; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Donate Now</a></div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="6px" style="-webkit-text-size-adjust: none; font-size: 6px; font-weight: 400; line-height: 6px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Aqua promo end--><!-- Light orange promo start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#FFD7A6" style="background-color: #FFD7A6; border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td bgcolor="#FFD7A6" class="width--50 padding--md rs--max rs--padding--none vertical-align--middle" style="background-color: #FFD7A6; font-weight: 400; padding: 16px; text-align: left; vertical-align: middle; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="display--block vertical-align--top" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: block; height: auto; max-height: 100%; max-width: 100%; vertical-align: top;" width="270"></div>
+												</td>
+												<td bgcolor="#FFD7A6" class="width--50 rs--max rs--padding--none" style="background-color: #FFD7A6; font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+												<div class="padding-x--xs" pardot-region="pardot_basic" pardot-region-type="basic" style="background-color: #FFD7A6; padding-left: 9px; padding-right: 9px;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="15px" style="-webkit-text-size-adjust: none; font-size: 15px; font-weight: 400; line-height: 15px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">Promo title</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam</p>
+
+												<div pardot-removable="removable">
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;" width="auto">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="text-align--center" style="background-color: #ffffff; border-radius: 1000px; font-weight: 400; padding: 0; text-align: center; vertical-align: top;">
+																		<div style="border: 2px solid #FEA636; border-radius: 1000px;background-color:#ffffff;padding: 8px 16px;"><a href="https://www.kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #ffffff; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Donate Now</a></div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="6px" style="-webkit-text-size-adjust: none; font-size: 6px; font-weight: 400; line-height: 6px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Light orange promo end--><!-- Lilac orange promo start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-repeatable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<table bgcolor="#F1DBF5" style="background-color: #F1DBF5; border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td bgcolor="#F1DBF5" class="width--50 padding--md rs--max rs--padding--none vertical-align--middle" style="background-color: #F1DBF5; font-weight: 400; padding: 16px; text-align: left; vertical-align: middle; width: 50%;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic"><img class="display--block vertical-align--top" src="https://via.placeholder.com/270x200" style="-ms-interpolation-mode: bicubic; border: 0; display: block; height: auto; max-height: 100%; max-width: 100%; vertical-align: top;" width="270"></div>
+												</td>
+												<td bgcolor="#F1DBF5" class="width--50 rs--max rs--padding--none" style="background-color: #F1DBF5; font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 50%;">
+												<div class="padding-x--xs" pardot-region="pardot_basic" pardot-region-type="basic" style="background-color: #F1DBF5; padding-left: 9px; padding-right: 9px;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="15px" style="-webkit-text-size-adjust: none; font-size: 15px; font-weight: 400; line-height: 15px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div class="bold" style="font-weight: 800;">Promo title</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="3px" style="-webkit-text-size-adjust: none; font-size: 3px; font-weight: 400; line-height: 3px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">Spicy jalapeno bacon ipsum dolor amet nostrud reprehenderit veniam</p>
+
+												<div pardot-removable="removable">
+												<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;" width="auto">
+													<tbody>
+														<tr>
+															<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+															<center>
+															<table border="0" cellpadding="0" cellspacing="0" class="width--auto" style="border-collapse: collapse; border-spacing: 0; width: auto;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="text-align--center" style="background-color: #ffffff; border-radius: 1000px; font-weight: 400; padding: 0; text-align: center; vertical-align: top;">
+																		<div style="border: 2px solid #DFA3EB; border-radius: 1000px;background-color:#ffffff;padding: 8px 16px;"><a href="https://www.kidney.org" pardot-region="pardot_link" pardot-region-type="link" style="background-color: #ffffff; border: none; border-radius: 1000px; color: #201E1E; display: inline-block; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; width: 100%;">Donate Now</a></div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="6px" style="-webkit-text-size-adjust: none; font-size: 6px; font-weight: 400; line-height: 6px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Lilac orange promo end--><!-- Signature start-->
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-removable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<div pardot-region="pardot_basic" pardot-region-type="basic">
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="10px" style="-webkit-text-size-adjust: none; font-size: 10px; font-weight: 400; line-height: 10px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<div pardot-region="pardot_basic" pardot-region-type="basic">
+									<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="width--25 rs--width--40 padding-right--xxs text-align--left" pardot-removable="1" style="font-weight: 400; padding: 0; padding-right: 6px; text-align: left; vertical-align: top; width: 25%;"><img class="fixed" src="https://kidneyfoundation.cachefly.net/email//images/kevin_headshot2.jpg" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: auto !important;" width="115"></td>
+												<td class="width--75 rs--width--60 padding-left--xxs" style="font-weight: 400; padding: 0; padding-left: 6px; text-align: left; vertical-align: top; width: 75%;">
+												<div>In hope and partnership,</div>
+
+												<div><img class="fixed" src="https://kidneyfoundation.cachefly.net/email//images/sig_kevin_longino.jpg" style="-ms-interpolation-mode: bicubic; border: 0; display: inline-block; height: auto; max-height: 100%; max-width: 100%; width: auto !important;"></div>
+
+												<div class="bold" style="font-weight: 800;">Kevin Longino</div>
+
+												<p style="margin: 0; margin-bottom: 16px; padding: 0;">CEO &amp; Kidney Transplant Patient</p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+
+									<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+										<tbody>
+											<tr style="line-height: 0">
+												<td height="25px" style="-webkit-text-size-adjust: none; font-size: 25px; font-weight: 400; line-height: 25px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Signature end--><!-- Footer start-->
+
+						<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+							<tbody>
+								<tr style="line-height: 0">
+									<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+							<tbody>
+								<tr style="line-height: 0">
+									<td class="bg--gray-1" height="1px" style="-webkit-text-size-adjust: none; background-color: #efeff0; font-size: 1px; font-weight: 400; line-height: 1px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" pardot-removable="1" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="padding-x--lg" style="font-weight: 400; padding: 0; padding-left: 21px; padding-right: 21px; text-align: left; vertical-align: top;">
+									<hr class="footer" style="Margin: 0 auto; box-sizing: content-box; color: transparent; display: none; height: 0; max-height: 0; max-width: 0; mso-hide: all; opacity: 0; overflow: hidden; visibility: hidden; width: 0;">
+									<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="width--100 section" role="presentation" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+										<tbody>
+											<tr>
+												<td class="bg--white" style="background-color: #fff; font-weight: 400; padding: 0; text-align: left; vertical-align: top;">
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td class="bg--white" height="30px" style="-webkit-text-size-adjust: none; background-color: #fff; font-size: 30px; font-weight: 400; line-height: 30px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<center>
+												<table class="rs--width--100 bg--white text-align--center center" style="background-color: #fff; border-collapse: collapse; border-spacing: 0; margin-left: auto; margin-right: auto; max-width: 275px; text-align: center; width: 100%;" width="275">
+													<tbody>
+														<tr>
+															<td class="width--20" pardot-removable="removable" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 20%;">
+															<center><a href="https://www.kidney.org/support/kidneycars?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=general&amp;utm_content=footer" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="Kidney Cars" class="fixed" height="26" pardot-height="26" pardot-region="pardot_image" pardot-region-type="image" pardot-width="32" src="https://kidneyfoundation.cachefly.net/email/images/cars.png" style="border: 0px; display: inline-block; height: 34px; max-height: 26px; max-width: 32px; width: 40px;" title="Kidney Cars" width="32"></a></center>
+															</td>
+															<td class="width--20" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 20%;">
+															<center><a href="https://kidney.org?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=general&amp;utm_content=footer" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="kidney bean" class="fixed" height="26" pardot-height="26" pardot-region="pardot_image" pardot-region-type="image" pardot-width="30" src="https://kidneyfoundation.cachefly.net/email/images/nkf.png" style="border: 0px; display: inline-block; height: 34px; max-height: 26px; max-width: 30px; width: 38px;" title="NKF" width="30"></a></center>
+															</td>
+															<td class="width--20" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 20%;">
+															<center><a href="https://www.facebook.com/nationalkidneyfoundation/" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="National Kidney Foundation Logo" class="fixed" height="26" pardot-height="26" pardot-region="pardot_image" pardot-region-type="image" pardot-width="31" src="https://kidneyfoundation.cachefly.net/email/images/facebook.png" style="border: 0px; display: inline-block; height: 34px; max-height: 26px; max-width: 31px; width: 39px;" title="Facebook" width="31"></a></center>
+															</td>
+															<td class="width--20" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 20%;">
+															<center><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Enkf&amp;region=follow_link&amp;screen_name=nkf" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="National Kidney Foundation Twitter" class="fixed" height="26" pardot-height="26" pardot-region="pardot_image" pardot-region-type="image" pardot-width="31" src="https://kidneyfoundation.cachefly.net/email/images/twitter.png" style="border: 0px; display: inline-block; height: 34px; max-height: 26px; max-width: 31px; width: 39px;" title="Twitter" width="31"></a></center>
+															</td>
+															<td class="width--20" style="font-weight: 400; padding: 0; text-align: left; vertical-align: top; width: 20%;">
+															<center><a href="https://www.instagram.com/nationalkidneyfoundation/" style="background-color: transparent; color: #0890c9; text-decoration: none;"><img alt="National Kidney Foundation Insta" class="fixed" height="26" pardot-height="26" pardot-region="pardot_image" pardot-region-type="image" pardot-width="31" src="https://kidneyfoundation.cachefly.net/email/images/instagram.png" style="border: 0px; display: inline-block; height: 34px; max-height: 26px; max-width: 31px; width: 39px;" title="Instagram" width="31"></a></center>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="20px" style="-webkit-text-size-adjust: none; font-size: 20px; font-weight: 400; line-height: 20px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<center class="center color--gray-3 font-size--sm" style="color: #9d9fa2; font-size: 12px; margin-left: auto; margin-right: auto;">
+												<div pardot-region="pardot_basic" pardot-region-type="basic">
+												<div>30 E 33rd St. NY, NY 10016</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="2px" style="-webkit-text-size-adjust: none; font-size: 2px; font-weight: 400; line-height: 2px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<div>© 2022&nbsp;National Kidney Foundation, Inc.</div>
+
+												<div class="linkHighlight"><a href="https://kidney.org?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=general&amp;utm_content=header" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">kidney.org</a></div>
+												</div>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="18px" style="-webkit-text-size-adjust: none; font-size: 18px; font-weight: 400; line-height: 18px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</center>
+
+												<center class="center color--gray-4 font-size--sm" style="color: #4d4d4f; font-size: 12px; margin-left: auto; margin-right: auto;">
+												<p class="linkHighlight" style="margin: 0; margin-bottom: 16px; padding: 0;"><a href="http://www3.kidney.org/l/219342/2018-03-28/35knp" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">preferences</a> | <a href="{{Unsubscribe}}" style="background-color: transparent; border-bottom: 2px solid #f05e22; box-shadow: none; color: inherit; font-weight: 700; text-decoration: none;">unsubscribe </a></p>
+												</center>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="18px" style="-webkit-text-size-adjust: none; font-size: 18px; font-weight: 400; line-height: 18px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+
+												<table style="background-color: transparent; border-collapse: collapse; border-spacing: 0; line-height: 0; width: 100%;">
+													<tbody>
+														<tr style="line-height: 0">
+															<td height="12px" style="-webkit-text-size-adjust: none; font-size: 12px; font-weight: 400; line-height: 12px; padding: 0; text-align: left; vertical-align: top;">&nbsp; &nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Footer end--></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+			<td style="font-weight: 400; padding: 0; text-align: left; vertical-align: top;">&nbsp;&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</body><div style="display:none; white-space:nowrap; font:15px courier; line-height:0;"></div></html>
