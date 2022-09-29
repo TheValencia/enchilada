@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+      .responsive-td {vertical-align: middle; }
+      ReadMsgBody{ width: 100%;}
+      .ExternalClass {width: 100%;}
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}
+      p { margin: 1em 0;}
+      table td { border-collapse: collapse;}
+      img {outline:0;}
+      a img {border:none;}
+      @-ms-viewport{ width: device-width;}
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        .container {width: 100% !important;}
+        .footer { width:auto !important; margin-left:0; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        img { max-width:100% !important; height:auto !important; max-height:auto !important;}
+        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}
+        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}
+        .drop { display:block !important; width: 100% !important; float:left; clear:both;}
+        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}
+        .nav4, .nav5, .nav6 { display: none !important; }
+        .tableBlock {width:100% !important;}
+        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */
+body, .tb_properties{font-family: Arial !important; font-size: 16px !important; color: #413D3D !important; line-height: 1.5 !important; padding: 0px !important; }.buttonstyles{font-family: Arial, helvetica, sans-serif !important; font-size: 16px !important; color: #FFFFFF !important; padding: 10px !important; }h1{font-family: Arial !important; font-size: 22px !important; color: #202020 !important; line-height: 1 !important; }h2{font-family: Arial !important; font-size: 20px !important; color: #202020 !important; line-height: 1 !important; }h3{font-family: Arial !important; font-size: 18px !important; color: #202020 !important; line-height: 1 !important; }a:not(.buttonstyles){line-height: 1 !important; }.mobile-hidden{display: none !important; }.responsive-td {width: 100% !important; display: block !important; padding: 0 !important;}
+/* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */
+      }
+      @media only screen and (max-width: 640px) {
+        .container { width:100% !important; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        .photo img { width:100% !important; height:auto !important;}
+        .nav5, .nav6 { display: none !important;}
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+          /* Begin Outlook Font Fix */
+              body, table, td {
+                 font-family : Arial, helvetica, sans-serif;
+                 line-height : 150%;
+                 font-size : 16px;
+                 color : #413D3D;
+              }
+          /* End Outlook Font Fix */
+      </style>
+    <![endif]-->
+  <!-- start:processor:head --><!-- start:processor:body:head --><meta name="format-detection" content="telephone=no, date=no, address=no, email=no"><meta name="x-apple-disable-message-reformatting"><meta name="color-scheme" content="light only"><meta name="supported-color-schemes" content="light only"><!--[if mso]>
+<noscript>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+</noscript> 
+<![endif]--><style>
+:root{color-scheme:light dark only;supported-color-schemes:light only}body{background:#fff0}.a11yHidden{max-height:0;overflow:hidden;opacity:0}table.mso{border-collapse:collapse;padding:0;table-layout:fixed}noinput{display:inline!important}</style><style>
+u + .body .ie-form{display:block!important}@media screen and (max-width:801px) and (min-width:800px) and (orientation: landscape) and (min-device-width: 801px){u + .body .ie-form{display:none!important} }u + .body .ie-radio-check{vertical-align:top;opacity:.99;width:auto;height:auto;float:left;border-radius:initial}u + .body .ie-btn{display:block}u + .body .ie-gmailhide{display:none!important}.sc-box-sizing{display:inherit}.ie-radio-check{display:inline-block;opacity:0;width:0;height:0;margin:0;
+margin:0 0 0 -9999px;float:left;position:absolute;-webkit-appearance:none}#MessageWebViewDiv .ie-radio-check{display:block}.ie-radio-check:focus + .ie-btn-wrap .ie-btn,.ie-radio-check:focus + .ie-btn,.ie-rating-group .ie-radio-check:focus + .ie-btn,.ie-rating-default:focus + .ie-input-group .ie-rating-group > label > .ie-btn-wrap .ie-btn{outline:Highlight auto 2px;outline:-webkit-focus-ring-color auto 5px}.ie-btn-wrap,.ie-frm-btn,select,.ie-dropdown-i{cursor:pointer}*.ie-input-wraper{display:block}
+*.ie-label{display:block}.ie-b-label,.ie-btn,.ie-gmail-btn-wrap{display:inline-block;vertical-align:middle;word-wrap:normal}.ie-b-label-box{width:100%;vertical-align:middle}.ie-input{display:inline-block;box-sizing:border-box}.ie-text-in{font:inherit;color:inherit;background:inherit;border:none;width:100%;height:100%;box-sizing:border-box;vertical-align:top}fieldset{border:none;padding:0;margin:0}legend{width:100%;padding:0;text-align:inherit}.ie-btn-wrap{display:inline-block}.ie-btn-label-before{
+vertical-align:bottom;display:inline-block}.ie-btn-label-after{vertical-align:top;display:inline-block}.ie-rating-default{display:none}.ie-rating-default:checked{display:block}.ie-frm-btn{display:inline-block;text-align:center;font:inherit;border:none;padding:0;background:none;-webkit-appearance:none}*.sc-coxpb5u-ic-label-box-sizing{padding:15px 0px 5px;font-weight:bold}*.sc-text-coxpb5u-ic-description{margin:0px;padding-top:5px;padding-bottom:5px}*.sc-text-coxpb5u-ic-required{color:#ff0000;
+font-weight:bold;display:inline-block}.sc-block-coxpb5u-ic-radio-checkbox-label{display:inline}.ie-input-coxpb5u-ic-text-select{width:100%;max-width:100%}.ie-input-coxpb5u-ic-text-select .ie-text-in{height:30px;border:1px solid #cccccc }.ie-input-coxpb5u-ic-textarea{width:100%;max-width:100%}.ie-input-coxpb5u-ic-textarea .ie-text-in{height:80px}*.ie-frm-btn-coxpb5u-ic-submit{width:auto;margin:15px 0px;padding:5px 10px;color:#ffffff;text-decoration:none;background:#309ddd}
+.ie-btn-coxpb5u-ic-button-choice,.ie-r-btn-coxpb5u-ic-button-choice,input:checked + .ie-input-group .ie-r-btn-coxpb5u-ic-button-choice,input:checked + .ie-btn-wrap + label .ie-r-btn-coxpb5u-ic-button-choice{padding:5px 10px;border:1px solid #6bcdf0 ;border-radius:5px}
+</style><style></style><style>.& input:focus,.& textarea:focus,.& button:focus,.& select:focus,.& .ie-radio-check:focus + .ie-btn-wrap .ie-btn,.& .ie-radio-check:focus + .ie-btn,.& .ie-rating-group .ie-radio-check:focus + .ie-btn,.& .ie-rating-default:focus + .ie-input-group .ie-rating-group > label > .ie-btn-wrap .ie-btn{outline:Highlight auto 5px}.& .ie-text-in{padding-top:0!important;padding-bottom:0!important;padding-right:0!important}</style><style>
+#interactive:checked+#rebel .ie-form{display:block!important}@media screen and (max-width: 800px){.& #interactive:checked+#rebel .ie-form{display:none!important} }#MessageWebViewDiv #rebel#rebel .ie-form,.edo-email-view #rebel#rebel .ie-form,#msgBody #rebel#rebel .ie-form,.netease_mail_readhtml #interactive:checked+#rebel .ie-form{display:none!important}@media (hover: hover) and (pointer: fine){_:-webkit-full-screen,_::-webkit-full-page-media,_:future,:root .body:not(.Singleton) #rebel#rebel .ie-form{
+display:none!important} }input:checked + .ie-btn-wrap .ie-btn-coxpb5u-ic-button-choice,input:checked + .ie-btn-coxpb5u-ic-button-choice,#rebel input:checked + .ie-btn-wrap .ie-r-btn-coxpb5u-ic-button-choice,.ie-r-btn-coxpb5u-ic-button-choice{color:#ffffff;background-color:#6bcdf0 }
+</style><noscript> <style>#interactive:checked+#rebel .ie-form{display:none!important}#interactive:checked+#rebel .ie-formFallback{display:block!important}</style> </noscript><!-- end:processor:body:head --><!-- end:processor:head --></head>
+  <body bgcolor="#F8F8F8" text="#808080" style="margin: 0px; -webkit-text-size-adjust:none;background-color : #F8F8F8; font-family : Arial, helvetica, sans-serif; line-height : 150%; font-size : 16px; color : #413D3D; padding : 16px; " class="body"><!-- start:processor:prepend --><!-- start:processor:body:prepend --><!--[if mso]><!--><input type="radio" name="limited" id="interactive" style="display:none;mso-hide:all;" checked><!--<![endif]--><div id="rebel"><!-- end:processor:body:prepend --><!-- end:processor:prepend -->
+    <div style="font-size:0; line-height:0;"><custom name="opencounter" type="tracking"><custom name="usermatch" type="tracking" /></div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          <custom type="header" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <table cellspacing="0" cellpadding="0" border="0" width="600" class="container" align="center">
+            <tr>
+              <td>
+                <table style="background-color : #FFFFFF; border : 5px solid transparent;font-size : 16px; font-family : Arial, helvetica, sans-serif; line-height : 150%; color : #413D3D; " class="tb_properties border_style" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%">
+                  <tr>
+                    <td align="center" valign="top">
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td class="content_padding" style="border:0px;padding : 6px; ">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr>
+                                <td align="left" class="header" valign="top">
+                                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border-bottom: 1px solid #AEAEAE; min-width: 100%; " class="slot-styling"><tr><td style="padding-bottom: 20px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 2px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px; " class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#FFFFFF;"> 
+    <!-- HEADER CONTENT -->
+    <tr>
+        <td align="center" valign="top" style="background:#FFFFFF;" width="100%">
+        <table class="container" cellpadding="0" cellspacing="0" width="600">
+            <tr>
+                <td align="left" style="font-family: 'Helvetica Neue',Helvetica,sans-serif; font-size: 18px; color: #959595;" padding:12px="" 25px="" 0px;"="">
+         <a href="%%profile_center_url%%" alias="Update Preferences" target="_blank" style="font-size:16px;color:#413D3D;text-decoration:none;border-bottom:2px solid #FF7F00;font-weight:normal;line-height:100%;">Update my email preferences</a>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>  
+</table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="left"><a style="font-weight:normal;color:#413D3D;text-decoration:none;line-height:100%;" href="https://www.kidney.org/" title="Kidney Website" alias="Header Website Link" conversion="true" data-linkto="https://"><img data-assetid="44956" src="http://image.email.kidney.org/lib/fe3011737164047d731c75/m/1/8f26f942-6c85-4801-ac5e-d1069ed618b1.png" alt="" height="62" width="207" style="display: block; padding: 0px; text-align: left; height: 62px; width: 207px; border: 0px;"></a></td></tr></table></td></tr></table></td></tr></table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="" valign="top">
+                                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border-bottom: 1px solid #AEAEAE; min-width: 100%; " class="slot-styling"><tr><td style="padding-top: 10px; padding-bottom: 10px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px; " class="stylingblock-content-wrapper camarker-inner"><br>
+This is an intro paragraph that should be changed<br>
+<br>
+Here is just some more text that might be useful.<br>
+<br>
+&nbsp;</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F15F22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F15F22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; line-height: 100%; background-color: #F15F22; border: 0px solid transparent; padding: 12px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F05E22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F05E22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; background-color: #F05E22; border: 0px; padding: 16px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 5px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#FEA636" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #FEA636;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; line-height: 100%; background-color: #FEA636; border: 0px; padding: 12px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 33%; padding-right: 4px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F05E22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F05E22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; line-height: 100%; background-color: #F05E22; border: 0px; padding: 16px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 33%; padding-left: 2px; padding-right: 2px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F05E22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F05E22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; line-height: 100%; background-color: #F05E22; border: 0px; padding: 16px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 33%; padding-left: 4px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F05E22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F05E22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; line-height: 100%; background-color: #F05E22; border: 0px; padding: 16px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-top: 10px; padding-right: 10px; padding-left: 10px; " class="stylingblock-content-wrapper camarker-inner"><table style="width: 100%;" cellpadding="0" cellspacing="0"><tr><td><table style="width: 100%;" cellpadding="0" cellspacing="0"><tr><td class="responsive-td" style="width: 100%;" valign="top"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="text-align: left; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner" align="left"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><img data-assetid="125290" src="http://image.email.kidney.org/lib/fe3011737164047d731c75/m/1/e8fb7a53-85bb-4faa-992f-9c65a1c0e2fa.png" alt="" width="100%" style="display: block; height: auto; width: 100%; padding: 0px; text-align: center;"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="text-align: left; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-top: 15px; " class="stylingblock-content-wrapper camarker-inner" align="left"><h1 style="color:#413D3D;font-family:Arial, helvetica, sans-serif;font-size:28px;font-style:normal;font-weight:bold;line-height:100%;">
+ <span style="font-family:Arial,Helvetica,sans-serif;">Lorem ipsum dolor sit amet</span></h1><div>
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis nisl in turpis sodales luctus aliquet at quam. Fusce quis enim placerat lectus mattis auctor vel quis mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quis suscipit diam, nec lacinia neque. Nunc iaculis non arcu eget volutpat.</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-top: 10px; padding-right: 10px; padding-left: 10px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><img data-assetid="125318" src="http://image.email.kidney.org/lib/fe3011737164047d731c75/m/1/8697c789-63c3-47fa-b4cc-d75f9956687d.png" alt="" width="270" style="display: block; padding: 0px; text-align: center; border: 0px solid transparent; height: auto; width: 100%;"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="5" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" align="center" bgcolor="#F05E22" style="border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;color:#201E1E;background-color:#F05E22;"><a target="_blank" class="buttonstyles" style="text-decoration:none;display:block;font-family:Arial, helvetica, sans-serif;font-size:18px;color:#201E1E;line-height:100%;text-align:center;background-color:#F05E22;border:0px;padding:16px;border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><img data-assetid="125318" src="http://image.email.kidney.org/lib/fe3011737164047d731c75/m/1/8697c789-63c3-47fa-b4cc-d75f9956687d.png" alt="" width="270" style="display: block; padding: 0px; text-align: center; border: 0px solid transparent; height: auto; width: 100%;"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="5" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" align="center" bgcolor="#F05E22" style="border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;color:#201E1E;background-color:#F05E22;"><a target="_blank" class="buttonstyles" style="text-decoration:none;display:block;font-family:Arial, helvetica, sans-serif;font-size:18px;color:#201E1E;line-height:100%;text-align:center;background-color:#F05E22;border:0px;padding:16px;border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-top: 10px; padding-right: 10px; padding-left: 10px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#F05E22" style=" border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; background-color: #F05E22;"><a target="_blank" class="buttonstyles" style=" font-size: 18px; font-family: Arial, helvetica, sans-serif; color: #201E1E; text-align: center; text-decoration: none; display: block; background-color: #F05E22; border: 0px; padding: 16px; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px;" href="http://" title="" alias="" conversion="false" data-linkto="http://">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="text-align: left; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-top: 10px; padding-right: 10px; padding-left: 10px; " class="stylingblock-content-wrapper camarker-inner" align="left"><table style="width: 100%;" cellpadding="0" cellspacing="0"><tr><td><table style="width: 100%;" cellpadding="0" cellspacing="0"><tr><td class="responsive-td" style="width: 33%; padding-right: 5px;" valign="top"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/ca503367-ab86-4e0d-8130-faecddb9e4d8.png" height="120" width="180" style="height:120px;width:180px;display: block;text-align: center;"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0"><tr><td class="innertd buttonblock" align="center" bgcolor="#F05E22" style="border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;color:#201E1E;"><a target="_blank" style="text-decoration:none;display:block;background-color:#F05E22;font-family:Arial, helvetica, sans-serif;font-size:18px;color:#201E1E;padding:16px;line-height:100%;border-radius:26px;border:0px;" class="buttonstyles" href="http://" title="" alias="" conversion="false">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="width: 33%; padding-right: 5px; padding-left: 5px;" valign="top"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/ca503367-ab86-4e0d-8130-faecddb9e4d8.png" height="120" width="180" style="height:120px;width:180px;display: block;text-align: center;"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0"><tr><td class="innertd buttonblock" align="center" bgcolor="#F05E22" style="border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;color:#201E1E;"><a target="_blank" style="text-decoration:none;display:block;background-color:#F05E22;font-family:Arial, helvetica, sans-serif;font-size:18px;color:#201E1E;padding:16px;line-height:100%;border-radius:26px;border:0px;" class="buttonstyles" href="http://" title="" alias="" conversion="false">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td><td class="responsive-td" style="width: 34%; padding-left: 5px;" valign="top"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/ca503367-ab86-4e0d-8130-faecddb9e4d8.png" style="height:120px;width:180px;display: block;text-align: center;" height="120" width="180"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding-bottom: 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="5"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0"><tr><td class="innertd buttonblock" align="center" bgcolor="#F05E22" style="border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;color:#201E1E;"><a target="_blank" style="text-decoration:none;display:block;background-color:#F05E22;font-family:Arial, helvetica, sans-serif;font-size:18px;color:#201E1E;padding:16px;line-height:100%;border-radius:26px;border:0px;" class="buttonstyles" href="http://" title="" alias="" conversion="false">Button Text</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="" valign="top">
+                                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border-bottom: 1px solid #AEAEAE; min-width: 100%; " class="slot-styling"><tr><td style="padding-top: 10px; padding-bottom: 10px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border-bottom: 1px solid #AEAEAE; min-width: 100%; " class="slot-styling"><tr><td style="padding-top: 10px; padding-bottom: 10px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="text-align: left; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner" align="left"><table cellpadding="0" cellspacing="0" class="socialshare-wrapper" width="100%"><tr><td align="center"><table cellpadding="0" cellspacing="0" align="center"><tr><td align="center"><!--[if mso]><table border="0" cellspacing="0" cellpadding="0"><tr><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#413D3D;text-decoration:none;line-height:100%;" href="https://www.facebook.com/nationalkidneyfoundation/" alias="facebook follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/1a560d12-c8d7-40cb-9e90-9df36933fdfa.png" alt="Facebook" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#413D3D;text-decoration:none;line-height:100%;" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Enkf&region=follow_link&screen_name=nkf" alias="twitter follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/a3b47106-a80a-401f-8435-6b6398001c4f.png" alt="Twitter" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#413D3D;text-decoration:none;line-height:100%;" href="https://www.instagram.com/nationalkidneyfoundation/" alias="instagram follow"><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/0e6fddf1-c205-4752-ad42-e9dc03c83dea.png" alt="Instagram" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td><td><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a style="font-weight:normal;color:#413D3D;text-decoration:none;line-height:100%;" href="https://kidney.org?utm_source=pardot&utm_medium=email&utm_campaign=general&utm_content=footer" alias="kidney bean"><img src="http://image.email.kidney.org/lib/fe3011737164047d731c75/m/1/46b7f0b6-f59c-4207-b0df-3bfbc54c1002.png" alt="Kidney Bean" width="24" height="24" style="display: block;; width: 24px !important; height: 24px !important"></a></td></tr></table><!--[if mso]></td></tr></table><![endif]--></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#fff;">
+    <tr>
+        <td bgcolor="#FFFFFF">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+            <tr>
+                <td align="center">
+                <table class="container" cellpadding="0" cellspacing="0" border="0" width="550">
+                  
+                </table>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>  </table></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="" valign="top">
+                                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="slot-styling"><tr><td style="padding-top: 20px; " class="slot-styling camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#fff;">
+    <tr>
+        <td bgcolor="#FFFFFF">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+            <tr>
+                <td align="center">
+                <table class="container" cellpadding="0" cellspacing="0" border="0" width="550">
+                  
+                </table>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>    
+    <!-- FOOTER CONTENT -->
+    <tr>
+        <td align="center" valign="top" style="background:#fff;" width="100%">
+        <table class="container" cellpadding="0" cellspacing="0" width="600">
+            <tr>
+                <td align="center" style="font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 11px; color: #959595; padding:0px 0px 25px 0px;">
+               
+                <span> %%Member_Addr%%, %%Member_City%%, %%Member_State%%, %%Member_PostalCode%% %%Member_Country%%<br> © 2022 %%Member_Busname%%
+      </span> <div style="text-align: center;">
+ <a alias="Kidney.org" conversion="false" data-linkto="http://" href="http://kidney.org" style="color:#413D3D;text-decoration:none;border-bottom:2px solid #FF7F00;font-weight:normal;line-height:100%;" title="Kidney.org"><span style="color:#000000;">Kidney.org</span></a></div>
+                <br>
+               
+           
+                <a href="%%profile_center_url%%" alias="Update Profile" target="_blank" style="font-size:12px;color:#413D3D;text-decoration:none;border-bottom:2px solid #FF7F00;font-weight:normal;line-height:100%;">Manage Preferences</a>&nbsp;|&nbsp;<a href="%%unsub_center_url%%" alias="Unsubscribe" target="_blank" style="font-size:12px;color:#413D3D;text-decoration:none;border-bottom:2px solid #FF7F00;font-weight:normal;line-height:100%;">Unsubscribe</a>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr> 
+</table>
+</td></tr></table></td></tr></table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <custom type="footer" />
+        </td>
+      </tr>
+    </table>
+  <!-- start:processor:append --><!-- start:processor:body:append --></div><!-- end:processor:body:append --><!-- end:processor:append --></body>
+</html>
